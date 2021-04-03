@@ -100,7 +100,7 @@ const IdentityDesign = () => {
                 <Grid item xs={12}>
                     <Typography variant="h6"><u>References</u></Typography>
                     <Typography>
-                        Refer to <Link href="https://patri.guru">https://patri.guru</Link> to know more about the Artist
+                        Refer to <Link href="https://patri.guru">https://patri.guru</Link> to know more about the Artiste
                     </Typography>
                     <Typography>
                         YouTube - <Link href="https://youtube.com/user/PatriSatishkumar">https://youtube.com/user/PatriSatishkumar</Link>
