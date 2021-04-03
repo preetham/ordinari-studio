@@ -25,7 +25,7 @@ const IdentityDesign = () => {
             <Typography>Ordinari Studio Presents</Typography>
             <Grid container spacing={2} justify="center" alignItems="center">
                 <Grid item xs={12}>
-                    <Typography variant="h4">Identity Design Contest - Patri Satish Kumar</Typography>
+                    <Typography variant="h4"><b>Identity Design Contest - Patri Satish Kumar</b></Typography>
                 </Grid>
             </Grid>
             <Grid container spacing={2} justify="flex-start" alignItems="center">
