@@ -108,7 +108,7 @@ const IdentityDesign = () => {
                 </Grid>
                 <Grid item>
                     <Typography variant="h6">
-                        PLEASE TRY TO SUBMIT BY 12th April, 2021
+                        PLEASE TRY TO SUBMIT BY 19th April, 2021
                     </Typography>
                     <Typography variant="body1">
                         Send it to <Link href="mailto:ordinaristudio@gmail.com">ordinaristudio@gmail.com</Link> preferably in <b>pdf</b> format or in <b>mp4</b> if any animation is involved
