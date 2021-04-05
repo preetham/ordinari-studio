@@ -34,7 +34,7 @@ const IdentityDesign = () => {
                     <Typography variant="body1">
                         We’ve just realised the potential of the social media and
                         we’ve some products with us for sale,
-                        which can use a branded look while promoting them
+                        which can use a branded look while promoting them.<br/>
                         In another words we’re in a position where we have all
                         the body parts but not the skin, and we’d
                         really love to cover it with skin with a very appealing
@@ -59,7 +59,7 @@ const IdentityDesign = () => {
                         time as he was the chosen one for the job by none
                         other than Lord Shiva himself, for performing
                         the Tandav/ Tandavam and hence Lord Nandi is
-                        considered as the (Adiguru) First Teacher for Mridangam Instrument.
+                        considered as the (Adiguru) First Teacher for Mridangam Instrument
                     </Typography>
                 </Grid>
                 <Grid item>
